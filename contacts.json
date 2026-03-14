@@ -1,0 +1,211 @@
+{
+  "municipal_offices": [
+    {
+      "name": "Orange County Development Engineering Division",
+      "role": "Development review, permitting, and infrastructure approval",
+      "phone": "(407) 836-7974",
+      "email": "OCDevelopmentEng@ocfl.net",
+      "address": "201 S. Rosalind Ave., 3rd Floor, Orlando, FL 32801",
+      "url": "https://www.orangecountyfl.net/PlanningDevelopment/DevelopmentEngineering.aspx"
+    },
+    {
+      "name": "Orange County Public Works Department",
+      "role": "Road maintenance, stormwater, right-of-way permits",
+      "phone": "(407) 836-7900",
+      "email": "",
+      "address": "4200 S. John Young Pkwy, Orlando, FL 32839",
+      "url": "https://www.orangecountyfl.net/TrafficTransportation/PublicWorks.aspx"
+    },
+    {
+      "name": "Orange County Planning Division",
+      "role": "Zoning, land use, comprehensive plan",
+      "phone": "(407) 836-5600",
+      "email": "",
+      "address": "201 S. Rosalind Ave., 1st Floor, Orlando, FL 32801",
+      "url": "https://www.orangecountyfl.net/PlanningDevelopment/PlanningDivision.aspx"
+    },
+    {
+      "name": "Orange County Property Appraiser",
+      "role": "Parcel data, ownership records, property values",
+      "phone": "(407) 836-5044",
+      "email": "",
+      "address": "200 S. Orange Ave., Suite 1700, Orlando, FL 32801",
+      "url": "https://www.ocpafl.org/"
+    },
+    {
+      "name": "Orange County Comptroller – Official Records",
+      "role": "Recorded plats, deeds, liens, easements",
+      "phone": "(407) 836-5115",
+      "email": "",
+      "address": "109 E. Church St., Suite 300, Orlando, FL 32801",
+      "url": "https://www.occompt.com/services/official-records/"
+    },
+    {
+      "name": "Orange County Utilities Department",
+      "role": "County water, wastewater, and reclaimed water services",
+      "phone": "(407) 836-5515",
+      "email": "",
+      "address": "9150 Curry Ford Road, Orlando, FL 32825",
+      "url": "https://www.orangecountyfl.net/NeighborsEnvironment/Utilities.aspx"
+    },
+    {
+      "name": "Orange County Environmental Protection Division",
+      "role": "Wetlands, environmental permits, stormwater compliance",
+      "phone": "(407) 836-1400",
+      "email": "",
+      "address": "3165 McCrory Pl., Suite 200, Orlando, FL 32803",
+      "url": "https://www.orangecountyfl.net/NeighborsEnvironment/EnvironmentalProtection.aspx"
+    },
+    {
+      "name": "Orange County Building Safety Division",
+      "role": "Building permits, inspections, code compliance",
+      "phone": "(407) 836-5550",
+      "email": "",
+      "address": "201 S. Rosalind Ave., 2nd Floor, Orlando, FL 32801",
+      "url": "https://www.orangecountyfl.net/PlanningDevelopment/BuildingSafety.aspx"
+    },
+    {
+      "name": "City of Orlando – Permitting Services Division",
+      "role": "City permits for projects within Orlando city limits",
+      "phone": "(407) 246-2271",
+      "email": "permits@orlando.gov",
+      "address": "400 S. Orange Ave., Orlando, FL 32801",
+      "url": "https://www.orlando.gov/Building-Development/Permitting"
+    },
+    {
+      "name": "City of Orlando – Transportation Engineering",
+      "role": "City roadway design, traffic studies, ROW within Orlando",
+      "phone": "(407) 246-3347",
+      "email": "",
+      "address": "400 S. Orange Ave., Orlando, FL 32801",
+      "url": "https://www.orlando.gov/Our-Government/Departments-Offices/Executive-Offices/Public-Works/Transportation-Engineering"
+    }
+  ],
+  "utility_providers": [
+    {
+      "name": "Orlando Utilities Commission (OUC)",
+      "role": "Electric & water for Orlando, parts of unincorporated OC",
+      "phone": "(407) 423-9018",
+      "email": "",
+      "address": "100 W. Anderson St., Orlando, FL 32801",
+      "url": "https://www.ouc.com/",
+      "service_area_note": "City of Orlando and surrounding areas – call to confirm service territory"
+    },
+    {
+      "name": "Duke Energy Florida",
+      "role": "Electric service for parts of Orange County",
+      "phone": "1-800-700-8744",
+      "email": "",
+      "address": "",
+      "url": "https://www.duke-energy.com/home",
+      "service_area_note": "Western and southern portions of Orange County"
+    },
+    {
+      "name": "Toho Water Authority",
+      "role": "Water and wastewater in Kissimmee area (bordering OC)",
+      "phone": "(407) 944-5000",
+      "email": "",
+      "address": "951 Martin Luther King Blvd., Kissimmee, FL 34741",
+      "url": "https://www.tohowater.com/",
+      "service_area_note": "Primarily Osceola County – serves some areas near OC border"
+    },
+    {
+      "name": "Orange County Utilities (Water/Wastewater)",
+      "role": "Water, wastewater, and reclaimed water in unincorporated OC",
+      "phone": "(407) 836-5515",
+      "email": "",
+      "address": "9150 Curry Ford Road, Orlando, FL 32825",
+      "url": "https://www.orangecountyfl.net/NeighborsEnvironment/Utilities.aspx",
+      "service_area_note": "Unincorporated Orange County service areas"
+    },
+    {
+      "name": "City of Orlando Wastewater Division",
+      "role": "Wastewater collection and treatment within Orlando",
+      "phone": "(407) 246-2213",
+      "email": "",
+      "address": "5100 L.B. McLeod Road, Orlando, FL 32811",
+      "url": "https://www.orlando.gov/Our-Government/Departments-Offices/Executive-Offices/Public-Works/Wastewater",
+      "service_area_note": "Within Orlando city limits"
+    },
+    {
+      "name": "Florida Gas Utility (FGU) / TECO Peoples Gas",
+      "role": "Natural gas distribution",
+      "phone": "1-877-832-6747",
+      "email": "",
+      "address": "",
+      "url": "https://www.peoplesgas.com/",
+      "service_area_note": "Gas service in Orange County"
+    },
+    {
+      "name": "Summit Broadband / Spectrum / AT&T",
+      "role": "Telecommunications & fiber",
+      "phone": "",
+      "email": "",
+      "address": "",
+      "url": "",
+      "service_area_note": "Contact 811 (Sunshine 811) for telecom locate requests"
+    },
+    {
+      "name": "Sunshine 811 (Florida One-Call)",
+      "role": "Utility locate requests – REQUIRED before excavation",
+      "phone": "811",
+      "email": "",
+      "address": "",
+      "url": "https://www.sunshine811.com/",
+      "service_area_note": "Statewide – required 2 full business days before digging"
+    }
+  ],
+  "state_and_regional": [
+    {
+      "name": "Florida Department of Transportation – District 5",
+      "role": "State road ROW, utility permits on state roads, drainage",
+      "phone": "(386) 943-5000",
+      "email": "",
+      "address": "719 S. Woodland Blvd., DeLand, FL 32720",
+      "url": "https://www.fdot.gov/programmanagement/district5.shtm"
+    },
+    {
+      "name": "FDOT Utility Permits",
+      "role": "Permits for utility work within FDOT right-of-way",
+      "phone": "(386) 943-5393",
+      "email": "",
+      "address": "",
+      "url": "https://www.fdot.gov/rightofway/utilitypage.shtm"
+    },
+    {
+      "name": "South Florida Water Management District (SFWMD)",
+      "role": "Environmental Resource Permits (ERP) for stormwater, wetlands",
+      "phone": "(561) 686-8800",
+      "email": "",
+      "address": "3301 Gun Club Road, West Palm Beach, FL 33406",
+      "url": "https://www.sfwmd.gov/doing-business-with-us/permits",
+      "service_area_note": "Southern portion of Orange County"
+    },
+    {
+      "name": "St. Johns River Water Management District (SJRWMD)",
+      "role": "ERP for stormwater, wetlands, consumptive use permits",
+      "phone": "(386) 329-4500",
+      "email": "",
+      "address": "4049 Reid St., Palatka, FL 32177",
+      "url": "https://www.sjrwmd.com/permitting/",
+      "service_area_note": "Northern portion of Orange County"
+    },
+    {
+      "name": "Florida Department of Environmental Protection (FDEP)",
+      "role": "Water quality, contamination, underground storage tanks",
+      "phone": "(850) 245-2118",
+      "email": "",
+      "address": "",
+      "url": "https://floridadep.gov/",
+      "service_area_note": "Statewide environmental oversight"
+    },
+    {
+      "name": "Central Florida Expressway Authority (CFX)",
+      "role": "Toll roads, expressway ROW and utility crossings",
+      "phone": "(407) 690-5000",
+      "email": "",
+      "address": "4974 ORL Tower Road, Orlando, FL 32807",
+      "url": "https://www.cfxway.com/"
+    }
+  ]
+}
