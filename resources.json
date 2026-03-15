@@ -1,0 +1,201 @@
+{
+  "gis_and_mapping": [
+    {
+      "name": "Orange County GIS Interactive Map (OCGIS)",
+      "url": "https://ocfl.maps.arcgis.com/home/index.html",
+      "description": "Official Orange County ArcGIS portal – parcels, zoning, floodplains, aerial imagery"
+    },
+    {
+      "name": "OCPA Property Search (New Site)",
+      "url": "https://ocpaweb.ocpafl.org/parcelsearch",
+      "description": "Search by address, owner, or parcel ID for ownership, legal description, assessed values – this is the current live site"
+    },
+    {
+      "name": "Orange County Property Appraiser – Interactive Map",
+      "url": "https://maps.ocpafl.org/webmap/",
+      "description": "Visual parcel map with ownership data, building footprints, aerials – click any parcel for details"
+    },
+    {
+      "name": "OCPA Public GIS Map (Alternate)",
+      "url": "https://vgispublic.ocpafl.org/webmapjs/",
+      "description": "Alternate OCPA map viewer with boundary, reference, and redevelopment map layers"
+    },
+    {
+      "name": "Orange County Comptroller – Official Records Search",
+      "url": "https://or.occompt.com/recorder/web/",
+      "description": "Search recorded plats, deeds, easements, liens, declarations of covenants (HOA docs) by book/page or name"
+    },
+    {
+      "name": "FEMA Flood Map Service Center",
+      "url": "https://msc.fema.gov/portal/home",
+      "description": "FIRM maps, flood zones, Letters of Map Change for Orange County"
+    },
+    {
+      "name": "Florida Geographic Data Library (FGDL)",
+      "url": "https://www.fgdl.org/metadataexplorer/explorer.jsp",
+      "description": "Statewide GIS data layers – parcels, soils, hydrology, land use"
+    }
+  ],
+  "permits_and_development": [
+    {
+      "name": "Orange County ePlan / Accela Portal",
+      "url": "https://aca-prod.accela.com/ORANGE/Default.aspx",
+      "description": "Online permitting portal – submit and track development, building, and ROW permits"
+    },
+    {
+      "name": "Orange County Development Engineering Standards",
+      "url": "https://www.orangecountyfl.net/PlanningDevelopment/DevelopmentEngineering.aspx",
+      "description": "Design standards, typical sections, stormwater management, subdivision requirements"
+    },
+    {
+      "name": "Orange County Right-of-Way Use Permits",
+      "url": "https://www.orangecountyfl.net/TrafficTransportation/PublicWorks.aspx",
+      "description": "Permits for work within county right-of-way – utility installations, driveway connections"
+    },
+    {
+      "name": "Orange County Zoning / Land Development Code",
+      "url": "https://www.orangecountyfl.net/PlanningDevelopment/ComprehensivePlanning.aspx",
+      "description": "Zoning regulations, future land use map, comprehensive plan documents"
+    },
+    {
+      "name": "City of Orlando – ePlans Portal",
+      "url": "https://aca-prod.accela.com/Orlando/",
+      "description": "City of Orlando online permitting – for projects within city limits"
+    },
+    {
+      "name": "FDOT District 5 – Utility Permit Application",
+      "url": "https://www.fdot.gov/rightofway/utilitypage.shtm",
+      "description": "Application for utility work within FDOT right-of-way (state roads, I-4, SR 408, etc.)"
+    },
+    {
+      "name": "CFX Utility Permit Information",
+      "url": "https://www.cfxway.com/agency-information/doing-business-with-cfx/",
+      "description": "Permits for utility crossings of expressway authority roads (408, 417, 429, etc.)"
+    }
+  ],
+  "plats_and_surveys": [
+    {
+      "name": "OCPA Property Card – Direct Parcel Lookup",
+      "url": "https://ocpaweb.ocpafl.org/parcelsearch",
+      "description": "New OCPA site: search by parcel ID, address, or owner name. Direct links to property cards are auto-generated per-parcel in results above."
+    },
+    {
+      "name": "OCPA Interactive GIS Map",
+      "url": "https://maps.ocpafl.org/webmap/",
+      "description": "Interactive map with parcel boundaries, aerial imagery, zoning overlays. Click any parcel to view ownership and plat data."
+    },
+    {
+      "name": "Orange County Comptroller – Official Records Search",
+      "url": "https://or.occompt.com/recorder/web/",
+      "description": "Search recorded plats by book/page, deeds, easements, liens, and HOA declarations. Use plat book/page from parcel data above."
+    },
+    {
+      "name": "Orange County Comptroller – Plat & Document Search Tips",
+      "url": "https://www.occompt.com/official-records/search-official-records/",
+      "description": "Help page for searching official records including plats, deeds, and covenants. Includes video tutorial."
+    },
+    {
+      "name": "Florida Board of Professional Surveyors & Mappers",
+      "url": "https://floridasurveyingandmapping.org/",
+      "description": "Licensed surveyor lookup, survey standards, boundary dispute resources"
+    }
+  ],
+  "utilities_and_infrastructure": [
+    {
+      "name": "OUC – Development Services / New Construction",
+      "url": "https://www.ouc.com/builders-and-developers",
+      "description": "OUC requirements for new electric and water service, line extensions, fees"
+    },
+    {
+      "name": "Orange County Utilities – Developer Handbook",
+      "url": "https://www.orangecountyfl.net/NeighborsEnvironment/Utilities.aspx",
+      "description": "County water/sewer extension policies, tap fees, availability letters"
+    },
+    {
+      "name": "Sunshine 811 – Utility Locate Request",
+      "url": "https://www.sunshine811.com/",
+      "description": "REQUIRED before excavation – submit locate requests 2 full business days in advance"
+    },
+    {
+      "name": "Duke Energy – Builder/Developer Services",
+      "url": "https://www.duke-energy.com/business/products/builder-services",
+      "description": "Electric service requests for new construction in Duke Energy territory"
+    },
+    {
+      "name": "Peoples Gas – New Service / Line Extension",
+      "url": "https://www.peoplesgas.com/business/builders-developers/",
+      "description": "Natural gas service availability and new service requests"
+    }
+  ],
+  "environmental_and_stormwater": [
+    {
+      "name": "SJRWMD – ePermitting Portal",
+      "url": "https://permitting.sjrwmd.com/epermitting/",
+      "description": "Environmental Resource Permits for stormwater and wetland impacts (north OC)"
+    },
+    {
+      "name": "SFWMD – ePermitting Portal",
+      "url": "https://my.sfwmd.gov/ePermitting/",
+      "description": "Environmental Resource Permits for stormwater and wetland impacts (south OC)"
+    },
+    {
+      "name": "Orange County Stormwater Management",
+      "url": "https://www.orangecountyfl.net/NeighborsEnvironment/Stormwater.aspx",
+      "description": "County stormwater design criteria, MS4 permit, drainage requirements"
+    },
+    {
+      "name": "FDEP – Map Direct (Contamination, Tanks, etc.)",
+      "url": "https://ca.dep.state.fl.us/mapdirect/",
+      "description": "Search for contamination sites, underground storage tanks, cleanup sites"
+    },
+    {
+      "name": "USFWS National Wetlands Inventory",
+      "url": "https://www.fws.gov/program/national-wetlands-inventory/wetlands-mapper",
+      "description": "Wetland boundaries and classifications for environmental screening"
+    }
+  ],
+  "hoa_and_cdd": [
+    {
+      "name": "Florida DBPR – HOA / Condo Search",
+      "url": "https://www.myfloridalicense.com/wl11.asp",
+      "description": "Search registered HOAs, condominiums, and cooperatives by name or location"
+    },
+    {
+      "name": "Orange County Comptroller – Covenant Search",
+      "url": "https://www.occompt.com/services/official-records/search-official-records/",
+      "description": "Search recorded Declarations of Covenants, Conditions & Restrictions (CC&Rs)"
+    },
+    {
+      "name": "Florida Special District Accountability Program",
+      "url": "https://specialdistrictreports.floridajobs.org/webreports/main.aspx",
+      "description": "Search Community Development Districts (CDDs) – governance, boundaries, financials"
+    },
+    {
+      "name": "Orange County Special Districts",
+      "url": "https://www.orangecountyfl.net/BoardCommissions/SpecialDistricts.aspx",
+      "description": "County-managed special districts, CDDs, and dependent districts"
+    }
+  ],
+  "transportation": [
+    {
+      "name": "Orange County Traffic Engineering",
+      "url": "https://www.orangecountyfl.net/TrafficTransportation/TrafficEngineering.aspx",
+      "description": "Traffic counts, signal information, road classifications, speed studies"
+    },
+    {
+      "name": "FDOT – Traffic Online / Florida Traffic Online",
+      "url": "https://tdaappsprod.dot.state.fl.us/fto/",
+      "description": "Statewide traffic counts, road characteristics, AADT data"
+    },
+    {
+      "name": "Orange County Road Network / GIS",
+      "url": "https://ocfl.maps.arcgis.com/home/index.html",
+      "description": "Road classifications, maintenance responsibility, ROW widths"
+    },
+    {
+      "name": "MetroPlan Orlando",
+      "url": "https://metroplanorlando.org/",
+      "description": "Regional transportation planning, long-range plans, funded project lists"
+    }
+  ]
+}
